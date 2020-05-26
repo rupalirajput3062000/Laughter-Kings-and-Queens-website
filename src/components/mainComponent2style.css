@@ -1,0 +1,16 @@
+.Image3{
+    background-image: url('./Images/background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    position: sticky;
+    padding-bottom: 6%;
+   
+}
+
+.Image3 h1{
+    text-align: center;
+    padding-top: 6%;
+}

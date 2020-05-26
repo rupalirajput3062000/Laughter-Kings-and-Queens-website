@@ -1,0 +1,14 @@
+.image2{
+    background-image: url('./Images/background.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    position: sticky;
+   
+}
+
+.image2 h1{
+    margin: 6% 0% 1% 0%;
+}
